@@ -1,4 +1,6 @@
-# great_places
+# Vellore_Explore
+
+An app where you can add locations along with their picture and store it to showcase it to your friends that you visited the place.
 
 A new Flutter project.
 
